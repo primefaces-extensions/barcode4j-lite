@@ -15,6 +15,7 @@ Original Website:  [http://barcode4j.sourceforge.net](http://barcode4j.sourcefor
 This fork is because a version after 2015 was never put on Maven Central that fixes the following:
 * All issues from 2.1 https://barcode4j.sourceforge.net/changes.html#version_2.1
 * Updated to Java 8
+* ZERO dependencies added (marked optional)
 
 ## Maven
 
