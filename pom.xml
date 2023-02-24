@@ -5,7 +5,7 @@
     <artifactId>barcode4j-light</artifactId>
     <packaging>jar</packaging>
     <name>Barcode4J</name>
-    <version>2.3-SNAPSHOT</version>
+    <version>2.3.0</version>
     <description>Barcode4J is a flexible generator for barcodes written in Java.</description>
     <url>http://barcode4j.sourceforge.net</url>
     <properties>
