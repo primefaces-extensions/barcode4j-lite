@@ -2,7 +2,7 @@
 <project>
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.primefaces.extensions</groupId>
-    <artifactId>barcode4j-light</artifactId>
+    <artifactId>barcode4j-lite</artifactId>
     <packaging>jar</packaging>
     <name>Barcode4J</name>
     <version>2.3.0</version>
