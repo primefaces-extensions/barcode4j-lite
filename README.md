@@ -6,7 +6,7 @@
 
 # Barcode4J Light
 
-Barcode4J is a flexible generator for barcodes written in Java.
+Barcode4J is a flexible generator for barcodes written in Java.  Forked from [Krysalis Barcode4J](http://barcode4j.sourceforge.net) 
 
 [![Barcode4J Logo](http://primefaces-extensions.github.io/images/barcode4j-logo.gif)](http://barcode4j.sourceforge.net)
 
