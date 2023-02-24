@@ -4,7 +4,7 @@
 [![License: Apache](https://img.shields.io/badge/License-Apache%202.0-yellow.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
 
 
-# Barcode4J Lite
+# Barcode4J Light
 
 Barcode4J is a flexible generator for barcodes written in Java.
 
@@ -22,7 +22,7 @@ This fork is because a version after 2015 was never put on Maven Central that fi
 ```xml
 <dependency>
     <groupId>org.primefaces.extensions</groupId>
-    <artifactId>barcode4j-lite</artifactId>
+    <artifactId>barcode4j-light</artifactId>
     <version>2.3.0</version>
 </dependency>
 ```
