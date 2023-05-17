@@ -1,5 +1,5 @@
 <div align="center">
-<img src="http://primefaces-extensions.github.io/images/barcode4j-logo.gif" width="100%"/>
+<img src="http://primefaces-extensions.github.io/images/barcode4j-logo.gif" width="30%"/>
 </div>
 <br>
 
