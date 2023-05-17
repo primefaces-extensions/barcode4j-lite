@@ -1,3 +1,8 @@
+<div align="center">
+<img src="http://primefaces-extensions.github.io/images/barcode4j-logo.gif" width="100%"/>
+</div>
+<br>
+
 [![Maven](https://img.shields.io/maven-central/v/org.primefaces.extensions/barcode4j-lite.svg)](https://repo1.maven.org/maven2/org/primefaces/extensions/barcode4j-lite/)
 [![Actions Status](https://github.com/primefaces-extensions/barcode4j-lite/workflows/Java%20CI/badge.svg)](https://github.com/primefaces-extensions/barcode4j-lite/actions)
 [![Stackoverflow](https://img.shields.io/badge/StackOverflow-primefaces-chocolate.svg)](https://stackoverflow.com/questions/tagged/primefaces-extensions)
@@ -7,8 +12,6 @@
 # Barcode4J Light
 
 Barcode4J is a flexible generator for barcodes written in Java.  Forked from [Krysalis Barcode4J](http://barcode4j.sourceforge.net) 
-
-[![Barcode4J Logo](http://primefaces-extensions.github.io/images/barcode4j-logo.gif)](http://barcode4j.sourceforge.net)
 
 Original Website:  [http://barcode4j.sourceforge.net](http://barcode4j.sourceforge.net) 
 
